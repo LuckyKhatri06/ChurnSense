@@ -1,7 +1,15 @@
 # ChurnSense: Customer Churn Prediction System
 
 A Streamlit web app that predicts whether a telecom customer is likely to churn.The app has two pages: **Predict Churn** and **Model Performance**.
+<p align="center">
+  <a href="https://churnsense-mlprediction.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Open_App-brightgreen?style=for-the-badge" alt="Live Demo">
+  </a>
+</p>
 
+🌐 Live Demo
+
+Click here to explore ChurnSense
 ## Project structure
 ```
 customer-churn-prediction/
