@@ -7,9 +7,7 @@ A Streamlit web app that predicts whether a telecom customer is likely to churn.
   </a>
 </p>
 
-🌐 Live Demo
 
-Click here to explore ChurnSense
 ## Project structure
 ```
 customer-churn-prediction/
