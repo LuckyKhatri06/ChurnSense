@@ -236,9 +236,4 @@ Compare all four models, inspect the confusion matrix and classification report,
 
 ## Author
 
-**[Your Name]**, B.Tech Information Technology, [College Name]
-[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
-
-## Acknowledgements
-
-The machine learning workflow was adapted from a public YouTube tutorial and extended into a deployed two-page application. The dataset is the publicly available Telco Customer Churn sample data.
+**[Lucky Khatri]**, B.Tech Information Technology, [Guru Nanak Dev Engineering College]
